@@ -5,5 +5,10 @@ public class Main {
        solar.sun="1";
        solar.moon="2";
        solar.planets="2";
+
+       featuresSun Xron=new featuresSun();
+       Xron.temperature="122254444k";
+       Xron.radius=1245454544545;
+       Xron.color="pink";
     }
 }
